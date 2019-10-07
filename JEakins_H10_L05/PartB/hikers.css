@@ -1,0 +1,23 @@
+
+    h3 {
+      text-align: right;
+      color: gray;
+      font-size: 0.7em;
+    }
+    h1 {
+      border: 1px solid black;
+      padding: 5px;
+    }
+    p {
+     margin-left: 20px;
+     font-family: serif;
+     font-size: 1.1em;
+    }
+    .myStyle {
+        font-style: italic;
+        margin-left: 20px;
+        font-family: sans-serif;
+    }
+    .quote {
+        font-style: italic;
+    }

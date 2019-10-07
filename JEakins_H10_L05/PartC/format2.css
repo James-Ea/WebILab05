@@ -1,0 +1,13 @@
+body{
+    background-color: #CECE00;
+    color: rgb(0,89,0);
+    font-family: "Comic Sans MS";
+}
+a {
+    background-color: rgba(245,245,245,.5);
+}
+h2{
+    font-family: "Times New Roman";
+    background-color: #fafafa;
+    color: #007300;
+}
